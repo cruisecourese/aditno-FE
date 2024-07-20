@@ -6,7 +6,7 @@
 
 오직 [렌딩 페이지와 헤더](https://www.figma.com/design/ngGzD4yJ2vGWytElMMxN8x/%ED%81%AC%EB%A3%A8%EC%A6%88-%EC%9D%B8%ED%84%B4?node-id=0-1&t=JjfZ7tJiYOOwtWVj-1) 만 구현하는 것 입니다.
 
-위의 링크 (피그마)에서 확인하면서 개발을 진행해주세요!
+위의 링크 (피그마)에서 확인하면서 개발을 진행해주세요!렌딩페이지와 헤더의 이미지는 images/ 폴더에 있습니다.
 
 기술은 1학년 방과후 시간에 배운 Html, css, js를 사용합니다. 
 
@@ -35,10 +35,10 @@
 
 ## 커밋 예시
 ```bash
-git commit -m 'ADD: 헤더 완성'
-git commit -m 'FIX: 헤더 색상 수정'
-git commit -m 'REFACTOR: 코드 가독성을 높이기 위한 리팩토링'
-git commit -m 'DELETE: 사용하지 않는 태그 삭제'
+git commit -m 'ADD:: 헤더 완성'
+git commit -m 'FIX:: 헤더 색상 수정'
+git commit -m 'REFACTOR:: 코드 가독성을 높이기 위한 리팩토링'
+git commit -m 'DELETE:: 사용하지 않는 태그 삭제'
 ```
 
 > 너무 부담 같지 말고! 즐기면서 해주세요
