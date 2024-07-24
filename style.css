@@ -96,42 +96,62 @@ p {
     position: relative;
 }
 .man {
-    margin-top: 147px;
-    margin-bottom: 152px;
-    text-align: center;
-    transform: translateX(65px);
+    margin-top: 268px;
+    margin-bottom: 338px;
+    margin-left: 425px;
+    text-align: left;
+    height: 158px;
 }
 .man img {
     width: 350px;
     height: 350px;
     flex-shrink: 0;
+    position: relative;
+    left: 305px;
+    top: -219px;
 }
 .girl {
-    margin-bottom: 268px;
-    text-align: center;
-    transform: translateX(-71px);
+    margin-left: 596px;
+    margin-bottom: 334px;
+    text-align: left;
+    position: relative;
+    top: -200px;
+    height: 313px;
 }
 .girl img {
     width: 250px;
     height: 250px;
     flex-shrink: 0;
+    position: relative;
+    left: -250px;
+    top: 195px;
+}
+.girl div {
+    width: 427px;
+    height: 160px;
 }
 .girl p {
     margin-top: 16px;
 }
 .star {
-    margin-bottom: 302px;
-    text-align: center;
+    margin-left: 390px;
+    margin-bottom: 344px;
+    text-align: left;
     transform: translateX(30px);
+    height: 177px;
 }
 .star img {
     width: 250px;
     height: 250px;
     flex-shrink: 0;
+    position: relative;
+    top: -219px;
+    left: 440px;
 }
 .bot {
+    margin-left: 468px;
     margin-bottom: 285px;
-    text-align: center;
+    text-align: left;
 }
 
 .bot a {
